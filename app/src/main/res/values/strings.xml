@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CSCE305 Project 1 Part 2</string>
+    <string name="rest_text_view">to rest</string>
+    <string name="next_button">next</string>
+    <string name="prev_button">prev</string>
+    <string name="love_text_view">to love</string>
+    <string name="wig_text_view">wig</string>
+    <string name="rest_thai_text_view">พัก</string>
+    <string name="stay_text_view">to stay temporarily</string>
+    <string name="stay_thai_text_view">พัก</string>
+    <string name="vegetable_text_view">vegetable</string>
+    <string name="vegetable_thai_text_view">ผัก</string>
+    <string name="love_thai_text_view">รัก</string>
+    <string name="wig_thai_text_view">วิก</string>
+    <string name="building_text_view">building</string>
+    <string name="building_thai_text_view">ตึก</string>
+    <string name="recall_text_view">to recall (remember)</string>
+    <string name="recall_thai_text_view">นึก</string>
+    <string name="ripe_text_view">ripe</string>
+    <string name="ripe_thai_text_view">สุก</string>
+    <string name="cooked_thai_text_view">สุก</string>
+    <string name="child_text_view">child</string>
+    <string name="child_thai_text_view">เด็ก</string>
+</resources>
