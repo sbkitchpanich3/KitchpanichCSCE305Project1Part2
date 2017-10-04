@@ -16,7 +16,7 @@ public class PageNine extends AppCompatActivity {
 
         setContentView(R.layout.pagenine);
         MediaPlayer mp = new MediaPlayer();
-        mp = MediaPlayer.create(this, R.raw.cooked);
+        mp = MediaPlayer.create(this, R.raw.small);
         mp.setAudioStreamType(AudioManager.STREAM_MUSIC);
         mp.setLooping(false);
         mp.start();

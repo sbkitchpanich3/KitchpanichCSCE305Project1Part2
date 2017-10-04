@@ -16,7 +16,7 @@ public class PageTwo extends AppCompatActivity {
 
         setContentView(R.layout.pagetwo);
         MediaPlayer mp = new MediaPlayer();
-        mp = MediaPlayer.create(this, R.raw.stay);
+        mp = MediaPlayer.create(this, R.raw.chest);
         mp.setAudioStreamType(AudioManager.STREAM_MUSIC);
         mp.setLooping(false);
         mp.start();

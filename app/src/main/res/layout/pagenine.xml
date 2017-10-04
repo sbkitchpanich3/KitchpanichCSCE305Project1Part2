@@ -14,7 +14,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="cooked"
+            android:text="small"
             android:textSize="30sp"/>
 
     </LinearLayout>
@@ -27,7 +27,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/cooked_thai_text_view"
+            android:text="@string/small_thai_text_view"
             android:textSize="30sp"/>
 
     </LinearLayout>
@@ -35,7 +35,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="121dp"
-        android:src="@drawable/cooked"
+        android:src="@drawable/small"
         android:layout_weight="0.84" />
 
     <LinearLayout
